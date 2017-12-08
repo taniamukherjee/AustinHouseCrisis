@@ -1,0 +1,13 @@
+"CA1 Personal Income Summary: Personal Income, Population, Per Capita Personal Income"
+"" 
+"Bureau of Economic Analysis" 
+"County"
+"GeoFips","GeoName","LineCode","Description","2007","2008","2009","2010","2011","2012","2013","2014","2015","2016"
+"48453","Travis, TX","1","Personal income (thousands of dollars)",41055361,45059999,42805346,45266615,50703812,57635989,59341297,64485251,68398911,70400054
+"48453","Travis, TX","2","Population (persons) 1/",955399,980699,1006503,1030569,1061858,1096122,1120948,1149668,1174818,1199323
+"48453","Travis, TX","3","Per capita personal income (dollars) 2/",42972,45947,42529,43924,47750,52582,52938,56090,58221,58700
+"Legend / Footnotes:"
+"1/ Census Bureau midyear population estimates. Estimates for 2010-2016 reflect county population estimates available as of March 2017."
+"2/ Per capita personal income was computed using Census Bureau midyear population estimates. Estimates for 2010-2016 reflect county population estimates available as of March 2017."
+"Note-- All dollar estimates are in current dollars (not adjusted for inflation)."
+"Last updated: November 16, 2017-- new estimates for 2016; revised estimates for 2010-2015."
